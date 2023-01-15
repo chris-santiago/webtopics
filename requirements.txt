@@ -1,0 +1,9 @@
+pandas
+pyarrow
+gensim>=4.0.0
+umap-learn>=0.5.1
+hdbscan>=0.8.27
+wordcloud
+torch
+sentence-transformers
+top2vec
