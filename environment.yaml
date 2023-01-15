@@ -15,4 +15,5 @@ dependencies:
   - jupyterlab
   - pip:
     - top2vec
+    - bertopic
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/webtopics
