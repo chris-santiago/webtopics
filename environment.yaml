@@ -13,6 +13,7 @@ dependencies:
   - pytorch
   - sentence-transformers
   - jupyterlab
+  - beautifulsoup4
   - pip:
     - top2vec
     - bertopic

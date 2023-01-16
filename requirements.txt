@@ -8,3 +8,4 @@ torch
 sentence-transformers
 top2vec
 bertopic
+beautifulsoup4
