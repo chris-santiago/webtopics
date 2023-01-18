@@ -33,4 +33,3 @@ class TopicModel(BaseEstimator, ClusterMixin):
             'X': self.features_in_,
             'label': self.labels_
         })
-    
