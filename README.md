@@ -1,6 +1,6 @@
 # webtopics
 
-## Getting Started
+## Getting Started py 3.9
 
 ```bash
 git clone https://github.com/chris-santiago/webtopics.git
@@ -8,6 +8,14 @@ conda env create -f environment.yaml
 conda activate webtopics
 cd webtopics
 pip install -e .[dev]
+```
+
+## Install using python 3.8
+```bash
+conda install -c anaconda ipykernel -y
+conda install ipykernel -y
+conda install -c conda-forge ipywidgets
+python -m ipykernel install --user --name webtopics
 ```
 
 ## Install
